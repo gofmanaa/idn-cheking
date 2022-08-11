@@ -7,7 +7,12 @@ The program sends a request every 30 seconds and checks the availability of free
 ## Usage
 
 Go tothe link https://portaal.refugeepass.nl/en/make-an-appointment, press F12 and try to find an appointment. 
-If there are no slots, take cookie and a token from the site (Debug console -> Network -> XHD -> select last query -> Header)
+If there are no slots, take cookie and a token from the site (Debug console -> Network -> XHD -> select last query -> Header).
+Then put the data in the `config.toml` file.
+
+
+
+
 ```
 $ make build
 $ make run

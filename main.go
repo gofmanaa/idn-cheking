@@ -9,6 +9,8 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
+const LogFile = "logfile.log"
+
 func main() {
 	log := initLogger()
 	log.Infoln("Start.")
@@ -43,7 +45,7 @@ func createDataRange() []string {
 
 func initLogger() *logrus.Logger {
 	var log = logrus.New()
-	file, err := os.OpenFile("logfile.log", os.O_WRONLY|os.O_APPEND|os.O_CREATE, 0644)
+	file, err := os.OpenFile(LogFile, os.O_WRONLY|os.O_APPEND|os.O_CREATE, 0644)
 	log.SetFormatter(&logrus.TextFormatter{
 		DisableColors:   false,
 		TimestampFormat: "02-01-2006 15:04:05",
