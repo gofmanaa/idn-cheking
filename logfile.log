@@ -1,0 +1,176 @@
+time="10-08-2022 17:17:58" level=info msg=Start.
+time="10-08-2022 17:17:58" level=info msg="make request.."
+time="10-08-2022 17:18:07" level=info msg=sleep...
+time="10-08-2022 17:18:37" level=info msg="make request.."
+time="10-08-2022 17:18:46" level=info msg=sleep...
+time="10-08-2022 17:19:16" level=info msg="make request.."
+time="10-08-2022 17:19:25" level=info msg=sleep...
+time="10-08-2022 17:19:55" level=info msg="make request.."
+time="10-08-2022 17:20:05" level=info msg=sleep...
+time="10-08-2022 17:20:35" level=info msg="make request.."
+time="10-08-2022 17:21:02" level=info msg=Start.
+time="10-08-2022 17:21:02" level=info msg="make request.."
+time="10-08-2022 17:21:17" level=info msg=Start.
+time="10-08-2022 17:21:17" level=info msg="make request.."
+time="10-08-2022 17:21:26" level=info msg="[]"
+time="10-08-2022 17:21:26" level=info msg=sleep...
+time="10-08-2022 17:21:56" level=info msg="make request.."
+time="10-08-2022 17:22:05" level=info msg="[]"
+time="10-08-2022 17:22:05" level=info msg=sleep...
+time="10-08-2022 17:22:35" level=info msg="make request.."
+time="10-08-2022 17:22:45" level=info msg="[]"
+time="10-08-2022 17:22:45" level=info msg=sleep...
+time="10-08-2022 17:24:11" level=info msg=Start.
+time="10-08-2022 17:24:11" level=info msg="make request on %s ... 2022-08-11"
+time="10-08-2022 17:24:25" level=info msg=Start.
+time="10-08-2022 17:24:25" level=info msg="make request on 2022-08-11 ..."
+time="10-08-2022 17:24:36" level=info msg="[]"
+time="10-08-2022 17:24:36" level=info msg=sleep...
+time="10-08-2022 17:25:06" level=info msg="make request on 2022-08-12 ..."
+time="10-08-2022 17:25:15" level=info msg="[{\"unique_id\":\"62dabc6532fec\",\"time\":\"15:15\",\"date\":\"22-08-2022\",\"location\":\"62ceaaf349204\",\"location_data\":{\"unique_id\":\"62ceaaf349204\",\"name\":\"Amsterdam\",\"description\":\"\",\"address\":\"Bijlmerdreef 1289, Amsterdam\",\"link\":null}}]"
+time="10-08-2022 17:25:15" level=info msg=sleep...
+time="10-08-2022 17:41:54" level=info msg=Start.
+time="10-08-2022 17:41:54" level=info msg="make request on 2022-08-11 ..."
+time="10-08-2022 17:42:04" level=info msg="Responce: []"
+time="10-08-2022 17:42:04" level=info msg="[]"
+time="10-08-2022 17:42:04" level=info msg=sleep...
+time="10-08-2022 17:42:34" level=info msg="make request on 2022-08-12 ..."
+time="10-08-2022 17:42:43" level=info msg="Responce: []"
+time="10-08-2022 17:42:43" level=info msg="[]"
+time="10-08-2022 17:42:43" level=info msg=sleep...
+time="10-08-2022 17:43:13" level=info msg="make request on 2022-08-13 ..."
+time="10-08-2022 17:43:23" level=info msg="Responce: []"
+time="10-08-2022 17:43:23" level=info msg="[]"
+time="10-08-2022 17:43:23" level=info msg=sleep...
+time="10-08-2022 17:43:53" level=info msg="make request on 2022-08-14 ..."
+time="10-08-2022 17:44:04" level=info msg="Responce: []"
+time="10-08-2022 17:44:04" level=info msg="[]"
+time="10-08-2022 17:44:04" level=info msg=sleep...
+time="10-08-2022 17:44:34" level=info msg="make request on 2022-08-15 ..."
+time="10-08-2022 17:44:44" level=info msg="Responce: []"
+time="10-08-2022 17:44:44" level=info msg="[]"
+time="10-08-2022 17:44:44" level=info msg=sleep...
+time="10-08-2022 17:45:14" level=info msg="make request on 2022-08-16 ..."
+time="10-08-2022 17:45:24" level=info msg="Responce: []"
+time="10-08-2022 17:45:24" level=info msg="[]"
+time="10-08-2022 17:45:24" level=info msg=sleep...
+time="10-08-2022 17:45:54" level=info msg="make request on 2022-08-17 ..."
+time="10-08-2022 17:46:03" level=info msg="Responce: []"
+time="10-08-2022 17:46:03" level=info msg="[]"
+time="10-08-2022 17:46:03" level=info msg=sleep...
+time="10-08-2022 17:46:33" level=info msg="make request on 2022-08-18 ..."
+time="10-08-2022 17:46:42" level=info msg="Responce: [{UniqueID:62e1635e07e6a Time:16:15 Date:23-08-2022 Location:62cbe77939294 LocationData:{UniqueID:62cbe77939294 Name:Deventer Description: Address:Essenstraat 35, Deventer Link:<nil>}}]"
+time="10-08-2022 17:46:42" level=info msg="[{\"unique_id\":\"62e1635e07e6a\",\"time\":\"16:15\",\"date\":\"23-08-2022\",\"location\":\"62cbe77939294\",\"location_data\":{\"unique_id\":\"62cbe77939294\",\"name\":\"Deventer\",\"description\":\"\",\"address\":\"Essenstraat 35, Deventer\",\"link\":null}}]"
+time="10-08-2022 17:46:42" level=info msg=sleep...
+time="10-08-2022 17:47:12" level=info msg="make request on 2022-08-19 ..."
+time="10-08-2022 17:47:21" level=info msg="Responce: [{UniqueID:62e1635e07e6a Time:16:15 Date:23-08-2022 Location:62cbe77939294 LocationData:{UniqueID:62cbe77939294 Name:Deventer Description: Address:Essenstraat 35, Deventer Link:<nil>}}]"
+time="10-08-2022 17:47:21" level=info msg="[{\"unique_id\":\"62e1635e07e6a\",\"time\":\"16:15\",\"date\":\"23-08-2022\",\"location\":\"62cbe77939294\",\"location_data\":{\"unique_id\":\"62cbe77939294\",\"name\":\"Deventer\",\"description\":\"\",\"address\":\"Essenstraat 35, Deventer\",\"link\":null}}]"
+time="10-08-2022 17:47:21" level=info msg=sleep...
+time="10-08-2022 17:47:51" level=info msg="make request on 2022-08-20 ..."
+time="10-08-2022 17:47:59" level=info msg="Responce: []"
+time="10-08-2022 17:47:59" level=info msg="[]"
+time="10-08-2022 17:47:59" level=info msg=sleep...
+time="10-08-2022 17:48:29" level=info msg="make request on 2022-08-21 ..."
+time="10-08-2022 17:48:38" level=info msg="Responce: []"
+time="10-08-2022 17:48:38" level=info msg="[]"
+time="10-08-2022 17:48:38" level=info msg=sleep...
+time="10-08-2022 17:49:08" level=info msg="make request on 2022-08-22 ..."
+time="10-08-2022 17:49:19" level=info msg="Responce: []"
+time="10-08-2022 17:49:19" level=info msg="[]"
+time="10-08-2022 17:49:19" level=info msg=sleep...
+time="10-08-2022 17:49:49" level=info msg="make request on 2022-08-23 ..."
+time="10-08-2022 17:49:58" level=info msg="Responce: []"
+time="10-08-2022 17:49:58" level=info msg="[]"
+time="10-08-2022 17:49:58" level=info msg=sleep...
+time="10-08-2022 17:50:28" level=info msg="make request on 2022-08-24 ..."
+time="10-08-2022 17:50:37" level=info msg="Responce: []"
+time="10-08-2022 17:50:37" level=info msg="[]"
+time="10-08-2022 17:50:37" level=info msg=sleep...
+time="10-08-2022 17:51:07" level=info msg="make request on 2022-08-25 ..."
+time="10-08-2022 17:51:17" level=info msg="Responce: []"
+time="10-08-2022 17:51:17" level=info msg="[]"
+time="10-08-2022 17:51:17" level=info msg=sleep...
+time="10-08-2022 17:51:47" level=info msg=Stop.
+time="11-08-2022 12:18:28" level=info msg=Start.
+time="11-08-2022 12:18:28" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 12:18:30" level=error msg="Request Failed: Post \"https://post.refugeepass.nl/api/v1/appointment/get-alternative-options\": dial tcp [2a06:98c1:3121::]:443: connect: network is unreachable\n"
+time="11-08-2022 12:18:30" level=info msg=sleep...
+time="11-08-2022 12:43:18" level=info msg=Start.
+time="11-08-2022 12:43:18" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 12:43:49" level=info msg=Start.
+time="11-08-2022 12:43:49" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 12:45:41" level=info msg=Start.
+time="11-08-2022 12:45:41" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 12:45:49" level=info msg="Responce: []"
+time="11-08-2022 12:45:49" level=info msg="[]"
+time="11-08-2022 12:45:49" level=info msg=sleep...
+time="11-08-2022 12:49:13" level=info msg=Start.
+time="11-08-2022 12:49:13" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 12:49:23" level=info msg="Responce: []"
+time="11-08-2022 12:49:23" level=info msg="Nothing found"
+time="11-08-2022 12:49:23" level=info msg="[]"
+time="11-08-2022 12:49:23" level=info msg=sleep...
+time="11-08-2022 12:49:53" level=info msg="make request on 2022-08-13 ..."
+time="11-08-2022 12:50:02" level=info msg="Responce: []"
+time="11-08-2022 12:50:02" level=info msg="Nothing found"
+time="11-08-2022 12:50:02" level=info msg="[]"
+time="11-08-2022 12:50:02" level=info msg=sleep...
+time="11-08-2022 12:50:22" level=info msg=Start.
+time="11-08-2022 12:50:22" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 12:50:29" level=info msg="Responce: []"
+time="11-08-2022 12:50:29" level=info msg="Nothing found"
+time="11-08-2022 12:50:29" level=info msg=sleep...
+time="11-08-2022 12:50:59" level=info msg="make request on 2022-08-13 ..."
+time="11-08-2022 12:51:07" level=info msg="Responce: []"
+time="11-08-2022 12:51:07" level=info msg="Nothing found"
+time="11-08-2022 12:51:07" level=info msg=sleep...
+time="11-08-2022 12:51:37" level=info msg="make request on 2022-08-14 ..."
+time="11-08-2022 12:51:55" level=info msg="Responce: []"
+time="11-08-2022 12:51:55" level=info msg="Nothing found"
+time="11-08-2022 12:51:55" level=info msg=sleep...
+time="11-08-2022 12:52:25" level=info msg="make request on 2022-08-15 ..."
+time="11-08-2022 12:52:33" level=info msg="Responce: []"
+time="11-08-2022 12:52:33" level=info msg="Nothing found"
+time="11-08-2022 12:52:33" level=info msg=sleep...
+time="11-08-2022 12:53:03" level=info msg="make request on 2022-08-16 ..."
+time="11-08-2022 12:53:11" level=info msg="Responce: []"
+time="11-08-2022 12:53:11" level=info msg="Nothing found"
+time="11-08-2022 12:53:11" level=info msg=sleep...
+time="11-08-2022 12:53:41" level=info msg="make request on 2022-08-17 ..."
+time="11-08-2022 12:53:48" level=info msg="Responce: []"
+time="11-08-2022 12:53:48" level=info msg="Nothing found"
+time="11-08-2022 12:53:48" level=info msg=sleep...
+time="11-08-2022 13:47:31" level=info msg=Start.
+time="11-08-2022 13:47:31" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 13:47:32" level=fatal msg="Request Status error: 419 \n"
+time="11-08-2022 13:49:32" level=info msg=Start.
+time="11-08-2022 13:49:32" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 13:49:32" level=fatal msg="Request Status error: 419 \n"
+time="11-08-2022 13:49:37" level=info msg=Start.
+time="11-08-2022 13:49:37" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 13:49:37" level=error msg="Update cookei and token in config file"
+time="11-08-2022 13:49:37" level=fatal msg="Request Status: 419 \n"
+time="11-08-2022 13:51:08" level=info msg=Start.
+time="11-08-2022 13:51:08" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 13:51:09" level=error msg="Update cookei and token in config file"
+time="11-08-2022 13:51:09" level=fatal msg="Request Status: 419 \n"
+time="11-08-2022 13:53:30" level=info msg=Start.
+time="11-08-2022 13:53:30" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 13:54:26" level=info msg=Start.
+time="11-08-2022 13:54:26" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 13:54:47" level=info msg=Start.
+time="11-08-2022 13:54:47" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 13:56:27" level=info msg=Start.
+time="11-08-2022 13:56:34" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 13:57:47" level=info msg=Start.
+time="11-08-2022 13:57:47" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 13:58:12" level=info msg="Responce: []"
+time="11-08-2022 13:58:12" level=info msg="Nothing found"
+time="11-08-2022 13:58:12" level=info msg=sleep...
+time="11-08-2022 13:58:42" level=info msg="make request on 2022-08-13 ..."
+time="11-08-2022 14:02:01" level=info msg=Start.
+time="11-08-2022 14:02:01" level=info msg="make request on 2022-08-12 ..."
+time="11-08-2022 14:02:17" level=info msg="Responce: []"
+time="11-08-2022 14:02:17" level=info msg="Nothing found"
+time="11-08-2022 14:02:17" level=info msg=sleep...
+time="11-08-2022 14:02:47" level=info msg="make request on 2022-08-13 ..."
